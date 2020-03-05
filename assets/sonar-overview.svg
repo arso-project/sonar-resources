@@ -1,0 +1,1482 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:xhtml="http://www.w3.org/1999/xhtml"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   style="overflow: hidden; display: block; width: 467px; height: 381px;"
+   width="467px"
+   height="381px"
+   viewBox="0 0 467 381"
+   version="1.1"
+   id="svg352"
+   sodipodi:docname="sonar-overview.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata356">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     id="namedview354"
+     showgrid="false"
+     inkscape:zoom="3.5039832"
+     inkscape:cx="257.00734"
+     inkscape:cy="191.18212"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g350" />
+  <defs
+     id="defs26">
+    <path
+       fill="none"
+       stroke="rgb(255,140,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_0" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_1" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_2" />
+    <path
+       fill="none"
+       stroke="rgb(255,140,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_3" />
+    <path
+       fill="none"
+       stroke="rgb(1,255,11)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_4" />
+    <path
+       fill="none"
+       stroke="rgb(1,255,11)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_5" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_6" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_7" />
+    <path
+       fill="none"
+       stroke="rgb(1,255,11)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_8" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_9" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_10" />
+    <path
+       fill="none"
+       stroke="rgb(1,255,11)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_11" />
+    <path
+       fill="none"
+       stroke="rgb(255,140,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_12" />
+    <path
+       fill="rgb(0,0,0)"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5 Z"
+       fill-opacity="1"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_13" />
+    <path
+       fill="rgb(0,0,0)"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5 Z"
+       fill-opacity="1"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_14" />
+    <path
+       fill="none"
+       stroke="rgb(1,255,11)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_15" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_16" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_17" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_18" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_19" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_20" />
+    <path
+       fill="none"
+       stroke="rgb(0,0,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_21" />
+    <path
+       fill="none"
+       stroke="rgb(255,140,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_22" />
+    <path
+       fill="none"
+       stroke="rgb(255,140,0)"
+       d="M 5,-5 L 0,0 L 5,5"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       id="ygc1135_23" />
+    <xhtml:style
+       type="text/css">@font-face{font-family:'Roboto'; src: url(data:application/font-ttf;charset=utf-8;base64,undefined) format('truetype');}</xhtml:style>
+  </defs>
+  <g
+     style="pointer-events:visiblePainted"
+     transform="translate(-991.1875 341.8135000000002)"
+     image-rendering="auto"
+     shape-rendering="auto"
+     id="g350">
+    <g
+       id="g32">
+      <path
+         fill="none"
+         stroke="rgb(255,140,0)"
+         d="M 1153.0625,-133.0625 L 1172.4375,-133.0625"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path28" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1172.65716991411 -133.0625)"
+         xlink:href="#ygc1135_0"
+         id="use30" />
+    </g>
+    <g
+       id="g38">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1153.0625,-103.125 L 1172.4375,-103.125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path34" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1172.65716991411 -103.125)"
+         xlink:href="#ygc1135_1"
+         id="use36" />
+    </g>
+    <g
+       id="g44">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1153.0625,-73.1875 L 1172.4375,-73.1875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path40" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1172.65716991411 -73.1875)"
+         xlink:href="#ygc1135_2"
+         id="use42" />
+    </g>
+    <g
+       id="g50">
+      <path
+         fill="none"
+         stroke="rgb(255,140,0)"
+         d="M 1397.34375,-307.8125 L 1326.21875,-307.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path46" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0.75 0 0 0.75 1325.99908008589 -307.8125)"
+         xlink:href="#ygc1135_3"
+         id="use48" />
+    </g>
+    <g
+       id="g56">
+      <path
+         fill="none"
+         stroke="rgb(1,255,11)"
+         d="M 1397.34375,-289.8125 L 1326.21875,-289.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path52" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0.75 0 0 0.75 1325.99908008589 -289.8125)"
+         xlink:href="#ygc1135_4"
+         id="use54" />
+    </g>
+    <g
+       id="g62">
+      <path
+         fill="none"
+         stroke="rgb(1,255,11)"
+         d="M 1239.8125,-133.0625 L 1280.21875,-133.0625"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path58" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1280.43841991411 -133.0625)"
+         xlink:href="#ygc1135_5"
+         id="use60" />
+    </g>
+    <g
+       id="g68">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1239.8125,-103.125 L 1280.21875,-103.125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path64" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1280.43841991411 -103.125)"
+         xlink:href="#ygc1135_6"
+         id="use66" />
+    </g>
+    <g
+       id="g74">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1239.8125,-68.1875 L 1280.21875,-68.1875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         stroke-dashoffset="1"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path70" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1280.43841991411 -68.1875)"
+         xlink:href="#ygc1135_7"
+         id="use72" />
+    </g>
+    <g
+       id="g80">
+      <path
+         fill="none"
+         stroke="rgb(1,255,11)"
+         d="M 1281.96875,-151.06250000000003 L 1207,-151.0625 L 1207,-142.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path76" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1207 -142.59283008588991)"
+         xlink:href="#ygc1135_8"
+         id="use78" />
+    </g>
+    <g
+       id="g86">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1281.96875,-121.125 L 1207,-121.125 L 1207,-112.875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path82" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1207 -112.65533008588991)"
+         xlink:href="#ygc1135_9"
+         id="use84" />
+    </g>
+    <g
+       id="g92">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1303.21875,-62 L 1303.21875,2.84375 L 1292,14.0625 L 1238,14.0625 L 1226.875,2.9375 L 1226.875,-63.4375"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         stroke-dashoffset="1"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path88" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 0.75 -0.75 0 1226.875 -63.65716991411009)"
+         xlink:href="#ygc1135_10"
+         id="use90" />
+    </g>
+    <g
+       id="g98">
+      <path
+         fill="none"
+         stroke="rgb(1,255,11)"
+         d="M 1324.46875,-196.109375 L 1395.59375,-196.109375"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path94" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(-0.75 0 0 -0.75 1395.81341991411 -196.109375)"
+         xlink:href="#ygc1135_11"
+         id="use96" />
+    </g>
+    <g
+       id="g104">
+      <path
+         fill="none"
+         stroke="rgb(255,140,0)"
+         d="M 1281.96875,-302.4791666666667 L 1154.625,-302.4791666666667"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path100" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0.75 0 0 0.75 1154.40533008589 -302.4791666666667)"
+         xlink:href="#ygc1135_12"
+         id="use102" />
+    </g>
+    <g
+       id="g110">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1153.0625,-31.3125 L 1183,-31.3125 L 1187.125,-35.4375 L 1187.125,-60.4375"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         stroke-dashoffset="1"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path106" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 0.75 -0.75 0 1187.125 -63.65716991411009)"
+         xlink:href="#ygc1135_13"
+         id="use108" />
+    </g>
+    <g
+       id="g116">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1207,-65.1875 L 1207,-11.9375 L 1199,-3.9375 L 1157.8125,-3.9375"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         stroke-dashoffset="1"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path112" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0.75 0 0 0.75 1154.59283008589 -3.9375)"
+         xlink:href="#ygc1135_14"
+         id="use114" />
+    </g>
+    <g
+       id="g122">
+      <path
+         fill="none"
+         stroke="rgb(1,255,11)"
+         d="M 1397.34375,-108.70312499999997 L 1326.21875,-108.70312499999997"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-dasharray="2,2"
+         stroke-dashoffset="1"
+         stroke-linecap="square"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path118" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0.75 0 0 0.75 1325.99908008589 -108.70312499999997)"
+         xlink:href="#ygc1135_15"
+         id="use120" />
+    </g>
+    <rect
+       fill="rgb(51,102,153)"
+       stroke="rgb(51,102,153)"
+       width="127.875"
+       height="75.875"
+       x="1025"
+       y="-312.271"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect124" />
+    <rect
+       fill="rgb(51,102,153)"
+       stroke="rgb(51,102,153)"
+       width="127.875"
+       height="75.875"
+       x="1025.19"
+       y="-141.062"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect126" />
+    <rect
+       fill="rgb(142,179,228)"
+       stroke="rgb(142,179,228)"
+       width="65.625"
+       height="16"
+       x="1174.19"
+       y="-81.1875"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect128" />
+    <rect
+       fill="rgb(142,179,228)"
+       stroke="rgb(142,179,228)"
+       width="65.625"
+       height="16"
+       x="1174.19"
+       y="-111.125"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect130" />
+    <rect
+       fill="rgb(142,179,228)"
+       stroke="rgb(142,179,228)"
+       width="65.625"
+       height="16"
+       x="1174.19"
+       y="-141.062"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect132" />
+    <rect
+       fill="rgb(51,102,153)"
+       stroke="rgb(51,102,153)"
+       width="36.6875"
+       height="250.271"
+       x="1397.34"
+       y="-312.271"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect134" />
+    <rect
+       fill="rgb(12,30,53)"
+       stroke="rgb(12,30,53)"
+       width="42.5"
+       height="250.271"
+       x="1281.97"
+       y="-312.271"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect136" />
+    <image
+       width="30"
+       height="30"
+       x="1400.69"
+       y="-279.812"
+       xlink:href="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22rgb(12%2C30%2C53)%22%20fill-opacity%3D%221%22%3E%3Cpath%20d%3D%22M495%20225.06l-17.22%201.08c-5.27-39.49-20.79-75.64-43.86-105.84l12.95-11.43c6.92-6.11%207.25-16.79.73-23.31L426.44%2064.4c-6.53-6.53-17.21-6.19-23.31.73L391.7%2078.07c-30.2-23.06-66.35-38.58-105.83-43.86L286.94%2017c.58-9.21-6.74-17-15.97-17h-29.94c-9.23%200-16.54%207.79-15.97%2017l1.08%2017.22c-39.49%205.27-75.64%2020.79-105.83%2043.86l-11.43-12.95c-6.11-6.92-16.79-7.25-23.31-.73L64.4%2085.56c-6.53%206.53-6.19%2017.21.73%2023.31l12.95%2011.43c-23.06%2030.2-38.58%2066.35-43.86%20105.84L17%20225.06c-9.21-.58-17%206.74-17%2015.97v29.94c0%209.23%207.79%2016.54%2017%2015.97l17.22-1.08c5.27%2039.49%2020.79%2075.64%2043.86%20105.83l-12.95%2011.43c-6.92%206.11-7.25%2016.79-.73%2023.31l21.17%2021.17c6.53%206.53%2017.21%206.19%2023.31-.73l11.43-12.95c30.2%2023.06%2066.35%2038.58%20105.84%2043.86L225.06%20495c-.58%209.21%206.74%2017%2015.97%2017h29.94c9.23%200%2016.54-7.79%2015.97-17l-1.08-17.22c39.49-5.27%2075.64-20.79%20105.84-43.86l11.43%2012.95c6.11%206.92%2016.79%207.25%2023.31.73l21.17-21.17c6.53-6.53%206.19-17.21-.73-23.31l-12.95-11.43c23.06-30.2%2038.58-66.35%2043.86-105.83l17.22%201.08c9.21.58%2017-6.74%2017-15.97v-29.94c-.01-9.23-7.8-16.54-17.01-15.97zM281.84%2098.61c24.81%204.07%2047.63%2013.66%2067.23%2027.78l-42.62%2048.29c-8.73-5.44-18.32-9.54-28.62-11.95l4.01-64.12zm-51.68%200l4.01%2064.12c-10.29%202.41-19.89%206.52-28.62%2011.95l-42.62-48.29c19.6-14.12%2042.42-23.71%2067.23-27.78zm-103.77%2064.33l48.3%2042.61c-5.44%208.73-9.54%2018.33-11.96%2028.62l-64.12-4.01c4.07-24.81%2013.66-47.62%2027.78-67.22zm-27.78%20118.9l64.12-4.01c2.41%2010.29%206.52%2019.89%2011.95%2028.62l-48.29%2042.62c-14.12-19.6-23.71-42.42-27.78-67.23zm131.55%20131.55c-24.81-4.07-47.63-13.66-67.23-27.78l42.61-48.3c8.73%205.44%2018.33%209.54%2028.62%2011.96l-4%2064.12zM256%20288c-17.67%200-32-14.33-32-32s14.33-32%2032-32%2032%2014.33%2032%2032-14.33%2032-32%2032zm25.84%20125.39l-4.01-64.12c10.29-2.41%2019.89-6.52%2028.62-11.96l42.61%2048.3c-19.6%2014.12-42.41%2023.71-67.22%2027.78zm103.77-64.33l-48.29-42.62c5.44-8.73%209.54-18.32%2011.95-28.62l64.12%204.01c-4.07%2024.82-13.66%2047.64-27.78%2067.23zm-36.34-114.89c-2.41-10.29-6.52-19.89-11.96-28.62l48.3-42.61c14.12%2019.6%2023.71%2042.42%2027.78%2067.23l-64.12%204z%22%2F%3E%3C%2Fsvg%3E"
+       id="image138" />
+    <image
+       width="30"
+       height="30"
+       x="1288.22"
+       y="-279.812"
+       xlink:href="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20496%20512%22%20width%3D%22496%22%20height%3D%22512%22%20fill%3D%22rgb(51%2C102%2C153)%22%20fill-opacity%3D%221%22%3E%3Cpath%20d%3D%22M225.38%20233.37c-12.5%2012.5-12.5%2032.76%200%2045.25%2012.49%2012.5%2032.76%2012.5%2045.25%200%2012.5-12.5%2012.5-32.76%200-45.25-12.5-12.49-32.76-12.49-45.25%200zM248%208C111.03%208%200%20119.03%200%20256s111.03%20248%20248%20248%20248-111.03%20248-248S384.97%208%20248%208zm126.14%20148.05L308.17%20300.4a31.938%2031.938%200%200%201-15.77%2015.77l-144.34%2065.97c-16.65%207.61-33.81-9.55-26.2-26.2l65.98-144.35a31.938%2031.938%200%200%201%2015.77-15.77l144.34-65.97c16.65-7.6%2033.8%209.55%2026.19%2026.2z%22%2F%3E%3C%2Fsvg%3E"
+       id="image140" />
+    <image
+       width="30"
+       height="30"
+       x="1117.81"
+       y="-285.688"
+       xlink:href="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20576%20512%22%20width%3D%22576%22%20height%3D%22512%22%20fill%3D%22rgb(12%2C30%2C53)%22%20fill-opacity%3D%221%22%3E%3Cpath%20d%3D%22M12.971%20352h32.394C67.172%20454.735%20181.944%20512%20288%20512c106.229%200%20220.853-57.38%20242.635-160h32.394c10.691%200%2016.045-12.926%208.485-20.485l-67.029-67.029c-4.686-4.686-12.284-4.686-16.971%200l-67.029%2067.029c-7.56%207.56-2.206%2020.485%208.485%2020.485h35.146c-20.29%2054.317-84.963%2086.588-144.117%2094.015V256h52c6.627%200%2012-5.373%2012-12v-40c0-6.627-5.373-12-12-12h-52v-5.47c37.281-13.178%2063.995-48.725%2064-90.518C384.005%2043.772%20341.605.738%20289.37.01%20235.723-.739%20192%2042.525%20192%2096c0%2041.798%2026.716%2077.35%2064%2090.53V192h-52c-6.627%200-12%205.373-12%2012v40c0%206.627%205.373%2012%2012%2012h52v190.015c-58.936-7.399-123.82-39.679-144.117-94.015h35.146c10.691%200%2016.045-12.926%208.485-20.485l-67.029-67.029c-4.686-4.686-12.284-4.686-16.971%200L4.485%20331.515C-3.074%20339.074%202.28%20352%2012.971%20352zM288%2064c17.645%200%2032%2014.355%2032%2032s-14.355%2032-32%2032-32-14.355-32-32%2014.355-32%2032-32z%22%2F%3E%3C%2Fsvg%3E"
+       id="image142" />
+    <rect
+       fill="rgb(51,102,153)"
+       stroke="rgb(51,102,153)"
+       width="127.594"
+       height="33.375"
+       x="1025.47"
+       y="-34.3125"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect144" />
+    <image
+       width="30"
+       height="30"
+       x="1029.39"
+       y="-32.625"
+       xlink:href="data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20512%20512%22%20width%3D%22512%22%20height%3D%22512%22%20fill%3D%22rgb(12%2C30%2C53)%22%20fill-opacity%3D%221%22%3E%3Cpath%20d%3D%22M416%2048c0-8.84-7.16-16-16-16h-64c-8.84%200-16%207.16-16%2016v48h96V48zM63.91%20159.99C61.4%20253.84%203.46%20274.22%200%20404v44c0%2017.67%2014.33%2032%2032%2032h96c17.67%200%2032-14.33%2032-32V288h32V128H95.84c-17.63%200-31.45%2014.37-31.93%2031.99zm384.18%200c-.48-17.62-14.3-31.99-31.93-31.99H320v160h32v160c0%2017.67%2014.33%2032%2032%2032h96c17.67%200%2032-14.33%2032-32v-44c-3.46-129.78-61.4-150.16-63.91-244.01zM176%2032h-64c-8.84%200-16%207.16-16%2016v48h96V48c0-8.84-7.16-16-16-16zm48%20256h64V128h-64v160z%22%2F%3E%3C%2Fsvg%3E"
+       id="image146" />
+    <g
+       data-referencesafe="true"
+       transform="translate(1016.1875 -218.9375)"
+       id="g158">
+      <rect
+         fill="#68B0E3"
+         stroke="#FFF"
+         stroke-width="1px"
+         width="145.875"
+         height="56"
+         id="rect148" />
+      <rect
+         fill="#FFF"
+         x="4"
+         y="22"
+         width="137.875"
+         height="30"
+         id="rect150" />
+      <g
+         class="demo-collapse-button"
+         transform="translate(128.875 5)"
+         id="g156">
+        <rect
+           fill="#FFF"
+           width="12"
+           height="12"
+           rx="1"
+           ry="1"
+           id="rect152" />
+        <rect
+           width="8"
+           height="2"
+           x="2"
+           y="5"
+           fill="#68B0E3"
+           stroke-width="0"
+           id="rect154" />
+      </g>
+    </g>
+    <rect
+       fill="rgb(210,222,238)"
+       stroke="rgb(210,222,238)"
+       width="10"
+       height="20"
+       x="1025.19"
+       y="-191.938"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect160" />
+    <rect
+       fill="rgb(210,222,238)"
+       stroke="rgb(210,222,238)"
+       width="20"
+       height="20"
+       x="1044.12"
+       y="-191.938"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect162" />
+    <rect
+       fill="rgb(210,222,238)"
+       stroke="rgb(210,222,238)"
+       width="20"
+       height="20"
+       x="1133.06"
+       y="-191.938"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect164" />
+    <rect
+       fill="rgb(210,222,238)"
+       stroke="rgb(210,222,238)"
+       width="20"
+       height="20"
+       x="1103.06"
+       y="-191.938"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect166" />
+    <rect
+       fill="rgb(255,140,0)"
+       stroke="rgb(255,140,0)"
+       width="20"
+       height="20"
+       x="1073.06"
+       y="-191.938"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="butt"
+       stroke-linejoin="miter"
+       stroke-miterlimit="10"
+       fill-opacity="1"
+       id="rect168" />
+    <g
+       id="g174">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1059.96875,-236.39583333333337 L 1059.96875,-193.6875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path170" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1059.96875 -193.46783008588991)"
+         xlink:href="#ygc1135_16"
+         id="use172" />
+    </g>
+    <g
+       id="g180">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1059.9921875,-171.9375 L 1059.9921875,-142.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path176" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1059.9921875 -142.59283008588991)"
+         xlink:href="#ygc1135_17"
+         id="use178" />
+    </g>
+    <g
+       id="g186">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1137.03125,-236.39583333333337 L 1137.03125,-193.6875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path182" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1137.03125 -193.46783008588991)"
+         xlink:href="#ygc1135_18"
+         id="use184" />
+    </g>
+    <g
+       id="g192">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1137.1953125,-171.9375 L 1137.1953125,-142.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path188" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1137.1953125 -142.59283008588991)"
+         xlink:href="#ygc1135_19"
+         id="use190" />
+    </g>
+    <g
+       id="g198">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1111.34375,-236.39583333333337 L 1111.34375,-193.6875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path194" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1111.34375 -193.46783008588991)"
+         xlink:href="#ygc1135_20"
+         id="use196" />
+    </g>
+    <g
+       id="g204">
+      <path
+         fill="none"
+         stroke="rgb(0,0,0)"
+         d="M 1111.4609375,-171.9375 L 1111.4609375,-142.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path200" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1111.4609375 -142.59283008588991)"
+         xlink:href="#ygc1135_21"
+         id="use202" />
+    </g>
+    <g
+       id="g210">
+      <path
+         fill="none"
+         stroke="rgb(255,140,0)"
+         d="M 1085.65625,-236.39583333333337 L 1085.65625,-193.6875"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path206" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1085.65625 -193.46783008588991)"
+         xlink:href="#ygc1135_22"
+         id="use208" />
+    </g>
+    <g
+       id="g216">
+      <path
+         fill="none"
+         stroke="rgb(255,140,0)"
+         d="M 1085.7265625,-171.9375 L 1085.7265625,-142.8125"
+         stroke-opacity="1"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="path212" />
+      <use
+         style="pointer-events: none;"
+         transform="matrix(0 -0.75 0.75 0 1085.7265625 -142.59283008588991)"
+         xlink:href="#ygc1135_23"
+         id="use214" />
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1348.34375 -299.4375)"
+       id="g220">
+      <text
+         font-family="'Arial'"
+         font-size="6px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(1,255,11)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(15.5 0.5)"
+         id="text218">HTTP GET</text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1347.28125 -287.8125000000018)"
+       id="g228">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         transform="translate(14.5 0.25)"
+         id="text226">
+        <tspan
+           x="0"
+           dy="1em"
+           id="tspan222">island/query</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan224">{name,args}</tspan>
+      </text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1346.84375 -316.8135000000002)"
+       id="g232">
+      <text
+         font-family="'Arial'"
+         font-size="6px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(255,140,0)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(15 0.5)"
+         id="text230">HTTP PUT</text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1351.59375 -307.5010000000002)"
+       id="g236">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(10.5 0.75)"
+         id="text234">island/db</text>
+    </g>
+    <g
+       transform="translate(1251.3488162118774 -151.375)"
+       id="g240">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(7 0.75)"
+         id="text238">query</text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1250.2606933886418 -132.7004974093943)"
+       id="g244">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(10 0.75)"
+         id="text242">key, seq</text>
+    </g>
+    <g
+       transform="translate(1328.03125 -196.10837499999997)"
+       id="g250">
+      <rect
+         fill="rgb(255,255,255)"
+         stroke="rgb(255,255,255)"
+         width="64"
+         height="7"
+         x="0"
+         y="0"
+         fill-opacity="0"
+         stroke-opacity="0"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="rect246" />
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(32 0.75)"
+         id="text248">{key, seq, id, schema, value}</text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1196.421875 -302.47816666666677)"
+       id="g254">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(21 0.75)"
+         id="text252">{id,schema, value}</text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1345.40625 -116.70412499999998)"
+       id="g258">
+      <text
+         font-family="'Arial'"
+         font-size="6px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(1,255,11)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(15.5 0.5)"
+         id="text256">HTTP GET</text>
+    </g>
+    <g
+       transform="matrix(1 1.2246467991473532e-16 -1.2246467991473532e-16 1 1345.40625 -105.79587499999798)"
+       id="g266">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(0,0,0)"
+         fill-opacity="1"
+         transform="translate(15.5 0.25)"
+         id="text264">
+        <tspan
+           x="0"
+           dy="1em"
+           id="tspan260">island/search</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan262">{name,args}</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(1056.9375 -288.83333333333337)"
+       id="g278">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(0 0.25)"
+         id="text276">
+        <tspan
+           x="0"
+           dy="1em"
+           id="tspan268">kappa-record-db</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan270">🠺 validate</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan272">🠺 encode in Record Protobuf</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan274">🠺 append to feed </tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(1038.625 -117.625)"
+       id="g290">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(0 0.25)"
+         id="text288">
+        <tspan
+           x="0"
+           dy="1em"
+           id="tspan280">kappa</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan282">🠺 parse Record protobuf { id, schema, value }</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan284">🠺 enhance with { key, seq, lseq }</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan286">🠺 emit {key, seq, lseq, id, schema, value}</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(1201.5 -76.6875)"
+       id="g294">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(0 0.75)"
+         id="text292">View</text>
+    </g>
+    <g
+       transform="translate(1201.5 -106.625)"
+       id="g298">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(0 0.75)"
+         id="text296">View</text>
+    </g>
+    <g
+       transform="translate(1201.5 -136.5625)"
+       id="g302">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(0 0.75)"
+         id="text300">View</text>
+    </g>
+    <g
+       transform="translate(1400.1875 -194.13541666666669)"
+       id="g310">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         transform="translate(0 0.25)"
+         id="text308">
+        <tspan
+           x="0"
+           dy="1em"
+           id="tspan304">Client</tspan>
+        <tspan
+           x="0"
+           dy="1.5em"
+           id="tspan306">🠺 loadRecord</tspan>
+      </text>
+    </g>
+    <g
+       transform="translate(1295.21875 -190.63541666666669)"
+       id="g314">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(0 0.75)"
+         id="text312">Server</text>
+    </g>
+    <g
+       transform="translate(1073.765625 -21.125)"
+       id="g318">
+      <text
+         font-family="'Arial'"
+         font-size="5px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="start"
+         fill="rgb(255,255,255)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(0 0.75)"
+         id="text316">Sonar-Tantivy</text>
+    </g>
+    <g
+       transform="matrix(0 -1 1 0 1025.1875 -171.9375)"
+       id="g324">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="rgb(0,0,0)"
+         width="20"
+         height="8"
+         x="0"
+         y="0"
+         fill-opacity="0.0196078431372549"
+         stroke-opacity="0.0196078431372549"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="rect320" />
+      <text
+         font-family="'Arial'"
+         font-size="6px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="1em"
+         transform="translate(10 0.5)"
+         id="text322">Feed</text>
+    </g>
+    <g
+       transform="translate(1050.625 -188.9375)"
+       id="g330">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="rgb(0,0,0)"
+         width="7"
+         height="14"
+         x="0"
+         y="0"
+         fill-opacity="0.0196078431372549"
+         stroke-opacity="0.0196078431372549"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="rect326" />
+      <text
+         font-family="'Arial'"
+         font-size="12px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="0.9166666666666666em"
+         transform="translate(3.5 0)"
+         id="text328">1</text>
+    </g>
+    <g
+       transform="translate(1139.5625 -188.9375)"
+       id="g336">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="rgb(0,0,0)"
+         width="7"
+         height="14"
+         x="0"
+         y="0"
+         fill-opacity="0.0196078431372549"
+         stroke-opacity="0.0196078431372549"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="rect332" />
+      <text
+         font-family="'Arial'"
+         font-size="12px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="0.9166666666666666em"
+         transform="translate(3.5 0)"
+         id="text334">4</text>
+    </g>
+    <g
+       transform="translate(1109.5625 -188.9375)"
+       id="g342">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="rgb(0,0,0)"
+         width="7"
+         height="14"
+         x="0"
+         y="0"
+         fill-opacity="0.0196078431372549"
+         stroke-opacity="0.0196078431372549"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="rect338" />
+      <text
+         font-family="'Arial'"
+         font-size="12px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="0.9166666666666666em"
+         transform="translate(3.5 0)"
+         id="text340">3</text>
+    </g>
+    <g
+       transform="translate(1079.5625 -188.9375)"
+       id="g348">
+      <rect
+         fill="rgb(0,0,0)"
+         stroke="rgb(0,0,0)"
+         width="7"
+         height="14"
+         x="0"
+         y="0"
+         fill-opacity="0.0196078431372549"
+         stroke-opacity="0.0196078431372549"
+         stroke-width="1"
+         stroke-linecap="butt"
+         stroke-linejoin="miter"
+         stroke-miterlimit="10"
+         id="rect344" />
+      <text
+         font-family="'Arial'"
+         font-size="12px"
+         font-style="normal"
+         font-weight="normal"
+         text-anchor="middle"
+         fill="rgb(51,102,153)"
+         fill-opacity="1"
+         dy="0.9166666666666666em"
+         transform="translate(3.5 0)"
+         id="text346">2</text>
+    </g>
+  </g>
+</svg>
